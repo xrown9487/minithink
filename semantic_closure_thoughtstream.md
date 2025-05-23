@@ -1,5 +1,5 @@
 # Semantic Closure Stream — 20-30-Minute Morning Reflection
-**Author:** [Your Name or Handle]  
+**Author:** 吳柏融 
 **Date:** 2025-05-23  
 **Context:** This was written within 20-30 minutes of waking, without editing or external prompting.
 
